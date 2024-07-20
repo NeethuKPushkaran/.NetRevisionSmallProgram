@@ -1,0 +1,32 @@
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\appsettings.Development.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\appsettings.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Small Program.exe
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Small Program.deps.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Small Program.runtimeconfig.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Small Program.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Small Program.pdb
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.csproj.AssemblyReference.cache
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.AssemblyInfoInputs.cache
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.AssemblyInfo.cs
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.csproj.CoreCompileInputs.cache
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.MvcApplicationPartsAssemblyInfo.cs
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.MvcApplicationPartsAssemblyInfo.cache
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets.build.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets.development.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets\msbuild.Small Program.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets\msbuild.build.Small Program.props
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Small Program.props
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Small Program.props
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\scopedcss\bundle\Small Program.styles.css
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Pr.220BAC1C.Up2Date
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\refint\Small Program.dll
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.pdb
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\Small Program.genruntimeconfig.cache
+H:\Codes\DotNet\Revision\Small Program\Small Program\obj\Debug\net8.0\ref\Small Program.dll
